@@ -1,4 +1,4 @@
-## What does a project do?
+## Description
 
 Create a lazy shortcut file to open git-bash on folder, instead of Right-Click and open git-bash.
 This shortcut file can send to desktop to reduce the action to be performed when opening git.
