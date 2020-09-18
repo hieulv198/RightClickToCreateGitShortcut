@@ -4,7 +4,7 @@ Create a lazy shortcut file to open git-bash on folder, instead of Right-Click a
 This shortcut file can send to desktop to reduce the action to be performed when opening git.
 
 ## How to Install
-Run as admin 
+Run as admin file Reg.bat
 
 ### How to Use
 1. Open folder 
